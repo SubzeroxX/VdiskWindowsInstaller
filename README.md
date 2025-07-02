@@ -1,2 +1,3 @@
 # VdiskWindowsInstaller
-A tool which i created and it helped me installing windows using install.wim/esd to an already mounted virtual disk.
+Usage: 
+Get a bootrec.exe file from a windows installer boot.wim file located under Windows\System32 and place it to the same folder as the project's executable.
